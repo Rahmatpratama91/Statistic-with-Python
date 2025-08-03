@@ -7,6 +7,6 @@
 - Python (Scipy, numpy)
 
 ## 📈 Features:
-- Solves each questions using Python
+- Solves each question using Python
 
 ## ✅ Result:
