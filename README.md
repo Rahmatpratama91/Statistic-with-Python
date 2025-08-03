@@ -4,12 +4,9 @@
 - Inferential Statistic Exam 
 
 ## ⚙️ Tools Used:
-- Python (numpy, matplotlib)
+- Python (Scipy, numpy)
 
 ## 📈 Features:
-- Calculates average, max, min, std dev of each task
-- Highlights bottleneck activities
-- Detects outliers using IQR method
-- Plots cycle time trends and boxplots
+- Solves each questions using Python
 
 ## ✅ Result:
