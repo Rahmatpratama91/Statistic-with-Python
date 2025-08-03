@@ -1,10 +1,10 @@
 # Inferential Statistic with Python
 
 ## 📝 Problem:
-- Inferential Statistic Exam 
+- Solves Inferential Statistic problems using Python
 
 ## ⚙️ Tools Used:
-- Python (Scipy, numpy)
+- Python (scipy, numpy)
 
 ## 📈 Features:
 - Solves each question using Python
